@@ -98,7 +98,6 @@ $main: #c68c53;
   img {
     width: 6rem;
     object-fit: cover;
-    mix-blend-mode: multiply;
   }
 }
 
