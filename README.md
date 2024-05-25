@@ -47,5 +47,5 @@ npm run lint
 
 # Links
 
-- Solution URL: [news-homepage](https://github.com/siya-mngadi/charity.org)
-- Live Site URL: [new-homepage](https://org-charity.netlify.app/)
+- Solution URL: [charity.org](https://github.com/siya-mngadi/charity.org)
+- Live Site URL: [charity.org](https://org-charity.netlify.app/)
