@@ -1,6 +1,14 @@
-# solezwe_classic
+# Charity.org
 
-This template should help get you started developing with Vue 3 in Vite.
+### Overview
+
+Charity.org is a web application designed to facilitate donations and volunteers for various charitable causes.
+
+## Tech Stack
+
+- Bootstrap
+- Typescript
+- Vuejs
 
 ## Recommended IDE Setup
 
@@ -47,5 +55,7 @@ npm run lint
 
 # Links
 
-- Solution URL: [charity.org](https://github.com/siya-mngadi/charity.org)
 - Live Site URL: [charity.org](https://org-charity.netlify.app/)
+
+# Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
