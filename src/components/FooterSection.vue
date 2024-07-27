@@ -87,7 +87,7 @@
     </div>
 
     <div class="copyright-text">
-      <span>2023 - &copy; Copyright - Charity Organisation</span>
+      <span>{{ new Date().getFullYear() }} - &copy; Copyright - Charity Organisation</span>
     </div>
   </footer>
 </template>
