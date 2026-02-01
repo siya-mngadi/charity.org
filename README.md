@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e735f75-0dc8-419b-ad80-592c578d62dc/deploy-status)](https://app.netlify.com/projects/org-charity/deploys)
+
 # Charity.org
 
 ### Overview
